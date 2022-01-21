@@ -10,4 +10,4 @@ p "How old are you?"
 
 age = gets.chomp.to_i
 
-p "Wow, you were born in " + (2022-age).to_s + ", that's so long ago!"
+p "Wow, you were born in " + (2022-age).to_s + ". You're old!"
